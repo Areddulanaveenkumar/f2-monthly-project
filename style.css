@@ -1,0 +1,15 @@
+/* Add your CSS styles here */
+.container {
+    margin: 20px;
+}
+
+.input-container {
+    margin-bottom: 10px;
+}
+
+.button-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+/* Add more CSS as needed */
